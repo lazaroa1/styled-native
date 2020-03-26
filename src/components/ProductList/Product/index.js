@@ -1,7 +1,6 @@
 import React from 'react';
 import {
   Container,
-  CheckMarkButton,
   ImageContainer,
   InfoContainer,
   TextDescription,
